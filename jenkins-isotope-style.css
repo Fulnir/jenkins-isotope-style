@@ -8,7 +8,7 @@ body {
   background: linear-gradient(top, #63818a 0%, #73939b 100%); }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #4f7b94; }
+  color: #76b6dd; }
 
 #top-panel {
   background: none; }
@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
     width: auto; }
   #top-panel td > a {
-    background: url("http://www.edwin-buehler.net/images/Avatare/Icon.png") 0 0 no-repeat;
+    background: url("http://www.edwin-buehler.net/images/olivandlogo.png") 0 0 no-repeat;
     display: block;
     width: 130px;
     height: 40px;
